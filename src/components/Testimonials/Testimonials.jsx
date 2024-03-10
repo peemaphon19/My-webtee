@@ -8,35 +8,44 @@ function Testimonials() {
       <div className={styles.testi_list}>
         <div className={styles.testi_items}>
           <p>
-            "He is talented and outstanding. He can do many things."
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure animi
+            commodi fugit eveniet quasi earum ab vitae officia. Quae earum
+            exercitationem nulla eius esse cumque dignissimos rem quia, in
+            nesciunt!
           </p>
           <img
-            src="https://img.lovepik.com/free-png/20210924/lovepik-cartoon-doctor-png-image_401328360_wh1200.png"
+            src="https://i.pinimg.com/564x/32/ee/01/32ee0194fa98f3ec170a06fa1d032fac.jpg"
             alt=""
           />
-          <h4>Toto</h4>
+          <h4>Palla</h4>
           <p className={styles.bio}>full-stack</p>
         </div>
         <div className={styles.testi_items}>
           <p>
-          "He is excellent at web development and he is also a very friendly person, easy to get along with others."
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure animi
+            commodi fugit eveniet quasi earum ab vitae officia. Quae earum
+            exercitationem nulla eius esse cumque dignissimos rem quia, in
+            nesciunt!
           </p>
           <img
-            src="https://img.lovepik.com/free-png/20220127/lovepik-teacher-png-image_401915365_wh1200.png"
+            src="https://i.pinimg.com/736x/4c/f0/c0/4cf0c013275b728119b37a4c39d3f183.jpg"
             alt=""
           />
-          <h4>mew</h4>
+          <h4>Gun</h4>
           <p className={styles.bio}>Web Developer</p>
         </div>
         <div className={styles.testi_items}>
           <p>
-          "He is a full-stack developer and also an expert in web development."
+          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iure animi
+            commodi fugit eveniet quasi earum ab vitae officia. Quae earum
+            exercitationem nulla eius esse cumque dignissimos rem quia, in
+            nesciunt!
           </p>
           <img
-            src="https://e7.pngegg.com/pngimages/694/303/png-clipart-school-uniform-homo-sapiens-mangaka-boy-black-hair-boy-purple-brown.png"
+            src="https://i.pinimg.com/564x/4d/5f/15/4d5f15f1785f74f4f07f1b45ed3199bf.jpg"
             alt=""
           />
-          <h4>poy</h4>
+          <h4>Pop</h4>
           <p className={styles.bio}>Front-end developer.</p>
         </div>
       </div>

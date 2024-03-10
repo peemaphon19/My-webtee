@@ -16,12 +16,12 @@ function Contact() {
                 </p>
                 <p>
                     <address>
-                    10/2 หมู่ 10 ต.บ้านกาศ<br />
-                    อ.แม่สะเรียง จ.แม่ฮ่องสอน
+                    54/6, Muanglee<br />
+                    Namuen, Nan
                     </address>
                 </p>
-                <p><MdAlternateEmail/>65021149@up.ac.th</p>
-                <p><SiWhatsapp/>0925816188</p>
+                <p><MdAlternateEmail/>65020980@up.ac.th</p>
+                <p><SiWhatsapp/>0991726788</p>
             </div>
             <div className={styles.contact_form}>
                 <form action="">

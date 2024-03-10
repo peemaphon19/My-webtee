@@ -1,5 +1,5 @@
 nav {
-    background-color: #68b8cc;
+    background-color: #387ADF;
     overflow: hidden;
     position: relative;
   
@@ -62,7 +62,7 @@ nav {
   
         a {
           text-decoration: none;
-          color: #68b8cc;
+          color: #387ADF;
           font-weight: bold;
         }
       }

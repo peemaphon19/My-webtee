@@ -16,7 +16,7 @@ function Navbar() {
       <div className={styles.container}>
         <div className={styles.nav_con}>
           <div className={styles.logo}>
-            <a href="">wiset</a>
+            <a href="">My port</a>
           </div>
 
           <ul>

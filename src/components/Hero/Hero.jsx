@@ -10,18 +10,16 @@ function Hero() {
         <div className={styles.hero_content}>
           <div className={styles.hero_info}>
             <p className={styles.text_1}>Greetings, tech enthusiast!</p>
-            <h3 className={styles.text_2}>Mr. Wiset Phaiauruwana</h3>
+            <h3 className={styles.text_2}>Mr. Nuntapop Pornsiriphanwat</h3>
             <p className={styles.text_3}>
               <span>I am a </span>
               <TypeAnimation
                 sequence={[
                   // Same substring at the start will only be typed out once, initially
-                  "full-stack",
+                  "full-stack.",
                   1000, // wait 1s before replacing "Mice" with "Hamsters"
                   "Web developer.",
-                  1000,
-                  "front-end developer.",
-                  1000,
+                  1000
                 ]}
                 speed={50}
                 repeat={Infinity}
